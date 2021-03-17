@@ -6,7 +6,7 @@
     "email": "aryan.chaurasia+Folio@ontariotechu.net",
     "phone": "289-647-AAAA",
     "website": "https://aryan1107.github.io/folio/",
-    "summary": "I am an incoming Dual Concentration Masters student @ the University of Toronto. I will be studying Data Science and Information Systems Design. I am currently in the final year of my Communication and Digital media degree. I transferred here after completing a diploma in Interactive Media Design. ",
+    "summary": "I am an incoming Dual Concentration Masters student @ the University of Toronto. I will be studying Data Science and Information Systems Design. I am currently in the final year of my Communication and Digital media degree. I transferred here after completing a Diploma in Interactive Media Design. ",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +17,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "aryan1107",
+        "url": "http://github.com/aryan1107"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "aryanchaurasia",
+        "url": "http://linkedin.com/in/aryanchaurasia"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "NONE",
+        "url": "http://twitter.com/"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "aryan.chaurasia",
+        "url": "http://instagram.com/aryan.chaurasia"
       }
     ]
   },
@@ -61,12 +61,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "HTML5",
+        "CSS",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "C",
+        "SQL"
       ]
     },
     {
