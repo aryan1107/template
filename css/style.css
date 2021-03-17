@@ -87,11 +87,14 @@ canvas{
 /* ---- particles.js container ---- */
 
 #particles-js{
-  width: 100%;
-  max-height: 250px;
+
+  width: 500px;
+  margin: auto;
+  max-height: 150px;
+  border-radius: 5px;
   background-color: #b61924;
-  background-image: url('');
+  background-image: url("");
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
-  background-repeat: no-repeat;
 }
