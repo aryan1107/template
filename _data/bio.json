@@ -7,13 +7,13 @@
     "phone": "289-647-AAAA",
     "website": "https://aryan1107.github.io/folio/",
     "summary": "I am an incoming Dual Concentration Masters student @ the University of Toronto. I will be studying Data Science and Information Systems Design.",
-    "summary2": "I am currently in the final year of my Communication and Digital media degree. I transferred here after completing a Diploma in Interactive Media Design. ",
+    "summary2": "Currently, I am in the final year of my Communication and Digital Media Degree. I transferred here after completing a Diploma in Interactive Media Design.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "M3J1k7",
+      "city": "Toronto",
+      "countryCode": "Canada",
+      "region": "Ontario"
     },
     "profiles": [
       {
@@ -40,19 +40,19 @@
   },
   "interests": [
     {
-      "name": "Interactive Media",
+      "name": "Programming & Interactive Media",
       "keywords": [
         "Front End Development",
         "UI/UX"
       ]
     },
     {
-      "name": "Machine Learning",
+      "name": "Machine Learning & AI",
       "keywords": [
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Data Analytics",
       "keywords": [
       ]
     }
