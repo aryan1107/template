@@ -8,6 +8,46 @@
 <section class="container" style="margin-top: 100px">
    <div class="particles-js" id="particles-js"></div>
 </section>
+<section class="container">
+  <div class="card mx-auto" style="width:600px;">
+    <img class="rounded-circle mx-auto" style="max-width:200px; margin-top:-75px;" src="{{ site.data.bio.basics.picture }}" alt="Profile Image">
+    <div class="card-body">
+      <h5 class="card-title text-center">{{ site.data.bio.basics.name }}</h5>
+      <h6 class="card-title text-secondary text-center">{{ site.data.bio.basics.label }}</h6>
+      <p class="card-text"> {{ site.data.bio.basics.summary }}</p>
+      <p class="card-text"> {{ site.data.bio.basics.summary2 }}</p>
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item text-center">Interests: {% for interest in site.data.bio.interests %}
+            {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+          {% endfor %}
+       </li>
+      <li class="list-group-item text-center">{% include home-network-links.html %}
+       </li>
+      <li class="list-group-item text-center"><a href="{{ site.baseurl}}/projects/">
+          <button class="ui basic button">Projects ({{ num_projects }})</button>
+        </a>
+        <a href="{{ site.baseurl}}/essays/">
+          <button class="ui basic button">Essays ({{ num_essays }})</button>
+        </a>
+        <a href="{{ site.baseurl}}/bio/">
+          <button class="ui basic button">{{ site.bio-page-label }}</button>
+        </a>
+       </li>
+    </ul>
+    <div class="card-body text-center">
+      <a href="{{ site.baseurl}}/projects/">
+          <button class="ui basic button">Projects ({{ num_projects }})</button>
+        </a>
+        <a href="{{ site.baseurl}}/essays/">
+          <button class="ui basic button">Essays ({{ num_essays }})</button>
+        </a>
+        <a href="{{ site.baseurl}}/bio/">
+          <button class="ui basic button">{{ site.bio-page-label }}</button>
+        </a>
+    </div>
+  </div>
+</section>
 
 <section class="container">
    <div style="height: 100%; margin-top: -75px" class="ui middle aligned grid ">
