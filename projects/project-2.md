@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/3D/cover.jpg
+image: images/3D/cover-min.jpg
 title: 3D Modelling
 permalink: projects/3dmodelling
 # All dates must be YYYY-MM-DD format!
@@ -17,7 +17,7 @@ summary: A 3D moddeled room scene made using 3DS Max.
 
 <section class="container">
    <div class="row">
-      <img src="https://aryan1107.github.io/folio/images/3D/cover.jpg" style="width:700px;" class="rounded mx-auto d-block" alt="3d scene">
+      <img src="https://aryan1107.github.io/folio/images/3D/cover-min.jpg" style="width:700px;" class="rounded mx-auto d-block" alt="3d scene">
    </div>
 </section>
 <br>
