@@ -15,7 +15,7 @@ summary: A smartphone Virtual Reality mini-game created using Unity.
 
 <section class="container">
   <div class="row">
-    <img src="https://aryan1107.github.io/folio/images/vr/cover.JPG" style="width:700px;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
+    <img src="https://aryan1107.github.io/folio/images/vr/cover.JPG" style="max-width:700px;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
   </div>
 </section>
 <br>
@@ -30,7 +30,7 @@ summary: A smartphone Virtual Reality mini-game created using Unity.
 <br>
 <section class="container">
   <div class="row">
-    <img src="https://aryan1107.github.io/folio/images/vr/1.png" style="width:700px;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
+    <img src="https://aryan1107.github.io/folio/images/vr/1.png" style="max-width:700px;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
   </div>
 </section>
 <br>
