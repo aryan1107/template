@@ -5,7 +5,7 @@ image: images/mesh/1.jpg
 title: Gradient Mesh
 permalink: projects/gradientmesh
 # All dates must be YYYY-MM-DD format!
-date: 2019-1-07
+date: 2019-01-07
 labels:
   - Gradient Mesh
   - Adobe Illustrator
