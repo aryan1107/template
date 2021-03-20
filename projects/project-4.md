@@ -15,7 +15,7 @@ summary: A art piece made using gradient mesh.
 
 <section class="container">
   <div class="row">
-    <img src="https://aryan1107.github.io/folio/images/mesh/1.jpg" style="width:700px;" class="rounded img-fluid mx-auto d-block" alt="gradient mesh">
+    <img src="https://aryan1107.github.io/folio/images/mesh/1.jpg" style="max-width:700px;" class="rounded img-fluid mx-auto d-block" alt="gradient mesh">
   </div>
 </section>
 <br>
@@ -29,7 +29,7 @@ summary: A art piece made using gradient mesh.
 <br>
 <section class="container">
   <div class="row">
-    <img src="https://aryan1107.github.io/folio/images/mesh/cover.jpg" style="width:700px;" class="rounded img-fluid mx-auto d-block" alt="gradient mesh">
+    <img src="https://aryan1107.github.io/folio/images/mesh/cover.jpg" style="max-width:700px;" class="rounded img-fluid mx-auto d-block" alt="gradient mesh">
   </div>
 </section>
 <br>
