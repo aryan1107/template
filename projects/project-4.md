@@ -1,28 +1,35 @@
 ---
 layout: project
 type: project
-image: images/game/cover.png
-title: Game Design
-permalink: projects/gamedesign
+image: images/mesh/1.jpg
+title: Gradient Mesh
+permalink: projects/gradientmesh
 # All dates must be YYYY-MM-DD format!
-date: 2018-12-07
+date: 2019-1-07
 labels:
-  - Game Design
-  - Construct 2
-summary: A basic game created using Construct 2.
+  - Gradient Mesh
+  - Adobe Illustrator
+summary: A art piece made using gradient mesh.
 ---
 
+
 <section class="container">
-   <div class="row">
-      <img src="https://aryan1107.github.io/folio/images/game/cover.png" style="width:700px;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
-   </div>
-</section>
-<br>
-<section class="container" style="max-width:700px;">
-   <div class="row">
-      <p>This was created when I was learning to design a game. Simple one level game made using Construct 2 while learning Construct 2. It uses free assets. The Player will receive points when it kills an enemy while jumping on it. One just uses direction arrows to play.
-      </p>
-   </div>
+  <div class="row">
+    <img src="https://aryan1107.github.io/folio/images/mesh/1.jpg" style="width:700px;" class="rounded img-fluid mx-auto d-block" alt="gradient mesh">
+  </div>
 </section>
 <br>
 
+<section class="container" style="max-width:700px;">
+  <div class="row">
+    <p>Learning to use the gradient mesh tool inside Adobe Illustrator. A fiat car made using the gradient mesh tool.
+    </p>
+  </div>
+</section>
+<br>
+<section class="container">
+  <div class="row">
+    <img src="https://aryan1107.github.io/folio/images/mesh/cover.jpg" style="width:700px;" class="rounded img-fluid mx-auto d-block" alt="gradient mesh">
+  </div>
+</section>
+<br>
