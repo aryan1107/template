@@ -17,7 +17,7 @@ summary: A 3D moddeled room scene made using 3DS Max.
 
 <section class="container">
    <div class="row">
-      <img src="https://aryan1107.github.io/folio/images/3D/cover-min.jpg" style="width:700px;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
+      <img src="https://aryan1107.github.io/folio/images/3D/cover-min.jpg" style="max-width:700px;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
    </div>
 </section>
 <br>
@@ -31,13 +31,13 @@ summary: A 3D moddeled room scene made using 3DS Max.
 <br>
 <section class="container">
    <div class="row">
-      <img src="https://aryan1107.github.io/folio/images/3D/3.jpg" style="width:700px;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
+      <img src="https://aryan1107.github.io/folio/images/3D/3.jpg" style="max-width:700px;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
    </div>
 </section>
 <br>
 <section class="container">
    <div class="row">
-      <img src="https://aryan1107.github.io/folio/images/3D/1.jpg" style="width:700px;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
+      <img src="https://aryan1107.github.io/folio/images/3D/1.jpg" style="max-width:700px;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
    </div>
 </section>
 <br>
