@@ -5,7 +5,7 @@ image: images/vr/cover.JPG
 title: VR Game Design
 permalink: projects/VRgamedesign
 # All dates must be YYYY-MM-DD format!
-date: 2018-12-014
+date: 2018-12-14
 labels:
   - Virtual Reality
   - Unity
