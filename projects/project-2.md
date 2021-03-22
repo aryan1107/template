@@ -5,7 +5,7 @@ image: images/3D/cover-min.jpg
 title: 3D Modelling
 permalink: projects/3dmodelling
 # All dates must be YYYY-MM-DD format!
-date: 2018-03-27
+date: 2019-02-18
 labels:
   - Autodesk 3ds Max
   - 3D Modelling
