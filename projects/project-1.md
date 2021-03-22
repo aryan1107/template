@@ -5,7 +5,7 @@ image: images/3D%20print/cover.jpg
 title: 3D Printing
 permalink: projects/3dprinting
 # All dates must be YYYY-MM-DD format!
-date: 2018-04-13
+date: 2019-01-29
 labels:
   - 3D modeling
   - 3DS Max
