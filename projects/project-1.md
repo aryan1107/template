@@ -13,7 +13,7 @@ labels:
   - 3D Print
 summary: 3D modeling and 3D printing.
 ---
-<img src="https://aryan1107.github.io/folio/images/3D%20print/cover.jpg"  class="ui fluid image" alt="3d scene">
+<img src="https://aryan1107.github.io/folio/images/3D%20print/cover.jpg"  class="ui fluid image rounded" alt="3d scene">
 <br>
 
 <section class="container" style="max-width:700px;">
@@ -23,22 +23,10 @@ summary: 3D modeling and 3D printing.
   </div>
 </section>
 <br>
-<section class="container" style="max-width:700px;">
-  <div class="row">
-    <img src="https://aryan1107.github.io/folio/images/3D%20print/3.png" style="max-height: 100%;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
-  </div>
-</section>
+  <img src="https://aryan1107.github.io/folio/images/3D%20print/3.png" class="ui fluid image rounded" alt="3d scene">
 <br>
-<section class="container" style="max-width:700px;">
-  <div class="row">
-    <img src="https://aryan1107.github.io/folio/images/3D%20print/2.jpg" style="max-height: 100%;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
-  </div>
-</section>
+  <img src="https://aryan1107.github.io/folio/images/3D%20print/2.jpg" class="ui fluid image rounded" alt="3d scene">
 <br>
-<section class="container" style="max-width:700px;">
-  <div class="row">
-    <img src="https://aryan1107.github.io/folio/images/3D%20print/1.jpg" style="max-height: 100%;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
-  </div>
-</section>
+  <img src="https://aryan1107.github.io/folio/images/3D%20print/1.jpg"  class="ui fluid image rounded" alt="3d scene">
 <br>
 
