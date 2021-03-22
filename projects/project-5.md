@@ -10,7 +10,7 @@ labels:
   - Virtual Reality
   - Unity
   - Android Development
-summary: A smartphone Virtual Reality mini-game created using Unity. 
+summary: A Virtal Reality mini-game created using Unity for smartphone. 
 ---
 
 <img src="https://aryan1107.github.io/folio/images/vr/cover.JPG" class="ui fluid image rounded" alt="Unity scene">
