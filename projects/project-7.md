@@ -10,7 +10,7 @@ labels:
   - Bootstrap
   - HTML5
   - CSS
-summary: basic website for mental health awareness made using bootstrap.
+summary: Basic website for mental health awareness made using bootstrap.
 projecturl: https://aryan1107.github.io/
 ---
 
