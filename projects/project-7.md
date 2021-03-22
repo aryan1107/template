@@ -5,7 +5,7 @@ image: images/mindfull/cover.png
 title: Mindfulness Website Mockup
 permalink: projects/Mindfulness
 # All dates must be YYYY-MM-DD format!
-date: 2018-12-07
+date: 2021-03-20
 labels:
   - Bootstrap
   - HTML5
