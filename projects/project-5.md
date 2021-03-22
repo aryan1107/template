@@ -24,8 +24,8 @@ summary: A smartphone Virtual Reality mini-game created using Unity.
   </div>
 </section>
 <br>
-  <img src="https://aryan1107.github.io/folio/images/vr/1.png" sclass="ui fluid image rounded"  alt="unity scene">
+  <img src="https://aryan1107.github.io/folio/images/vr/1.png" class="ui fluid image rounded"  alt="unity scene">
 <br>
-<div class="ui embed" data-url="https://www.youtube.com/watch?v=yAq9syILSMY" ></div>
+<div class="ui embed" data-url="https://www.youtube.com/watch?v=yAq9syILSMY" data-placeholder="/images/vr/1.pn"></div>
 
 
