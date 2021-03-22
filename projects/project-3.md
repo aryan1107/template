@@ -12,11 +12,7 @@ labels:
 summary: A basic game created using Construct 2.
 ---
 
-<section class="container">
-   <div class="row">
-      <img src="https://aryan1107.github.io/folio/images/game/cover.png" style="max-width:700px;height: auto;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
-   </div>
-</section>
+<img src="https://aryan1107.github.io/folio/images/game/cover.png" class="ui fluid image rounded" alt="Game scene">
 <br>
 <section class="container" style="max-width:700px;">
    <div class="row">
