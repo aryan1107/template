@@ -14,7 +14,7 @@ labels:
 summary: 3D modeling and 3D printing.
 ---
 
-<section class="container" style="max-width:700px;">
+<section class="container" style="max-width:700px;max-height: 100%;">
   <div class="row">
     <img src="https://aryan1107.github.io/folio/images/3D%20print/cover.jpg" style="max-height: 100%;" class="rounded img-fluid mx-auto d-block" alt="3d scene">
   </div>
